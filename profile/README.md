@@ -10,5 +10,5 @@ https://github.com/soramitsukhmer
 <details>
    <summary>Stats</summary>
    <br>
-   <img src="https://visitor-badge.glitch.me/badge?page_id=soramitsukhmer.soramitsukhmer" alt="visitor">
+   <img src="https://visitor-badge.glitch.me/badge?page_id=soramitsukhmer.soramitsukhmer-lab" alt="visitor">
 </details>
