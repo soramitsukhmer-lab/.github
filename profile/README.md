@@ -5,7 +5,7 @@ We are focusing on products based on the Hyperledger Iroha blockchain platform.
 
 ## Links
 
-[⛩ Soramitsu Khmer Labs](https://github.com/soramitsukhmer-lab)
+[⛩ Soramitsu Khmer](https://github.com/soramitsukhmer)
 
 ---
 <!-- Stats -->
