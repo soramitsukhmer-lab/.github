@@ -3,7 +3,9 @@
 **Soramitsu Khmer** is a software technology company based in **Cambodia**.  
 We are focusing on products based on the Hyperledger Iroha blockchain platform.
 
-https://github.com/soramitsukhmer
+## Links
+
+[⛩ Soramitsu Khmer Labs](https://github.com/soramitsukhmer-lab)
 
 ---
 <!-- Stats -->
